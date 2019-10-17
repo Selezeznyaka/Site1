@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    width: 100%;
+}
+.header{
+    margin: 0px;
+    background-image: url(../img/bg.jpg);
+    height: 756px;
+    overflow: hidden;
+}
+div{
+    border: 2px solid Yellow;
+}
+.p1{
+    text-decoration: line-through;
+}
