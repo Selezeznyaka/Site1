@@ -8,9 +8,17 @@ body{
     height: 756px;
     overflow: hidden;
 }
-div{
-    border: 2px solid Yellow;
-}
 .p1{
     text-decoration: line-through;
+}
+.icon{
+    float:left; 
+    margin-left:35px;
+}
+footer{
+    background-image: url(../img/footer.jpg);
+    height: 360px;
+}
+div{
+    /*border: 0.1px solid Yellow;
 }
