@@ -1,11 +1,10 @@
 body{
     margin: 0px;
-    width: 100%;
 }
 .header{
     margin: 0px;
     background-image: url(../img/bg.jpg);
-    height: 756px;
+    height: 900px;
     overflow: hidden;
 }
 .p1{
@@ -21,5 +20,5 @@ footer{
 }
 div{
     border: 0px;
-    /*border: 0.1px solid Yellow;*/
+    /*border: 0.1px solid Red;*/
 }
