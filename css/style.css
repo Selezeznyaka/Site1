@@ -4,7 +4,7 @@ body{
 .header{
     margin: 0px;
     background-image: url(../img/bg.jpg);
-    height: 900px;
+    height: 51vw;
     overflow: hidden;
 }
 .p1{
@@ -21,4 +21,181 @@ footer{
 div{
     border: 0px;
     /*border: 0.1px solid Red;*/
+}
+.logo{
+    float:left; 
+     margin-left:200px;
+    margin-top: 50px;
+}
+.menu{
+    float: left; 
+    margin-left: 900px; 
+    margin-top: 60px
+}
+.main_txt{
+    margin-left: 573px; 
+    margin-top:323px;
+    font-size: 64px; 
+    color: white;
+}
+.folio{
+    float: left;
+    margin-top: 13px; 
+    margin-left: -30px;
+}
+.icons{
+    margin-top: 200px;
+    margin-left: 215px;
+    margin-right: 1014px;
+}
+main{
+    height: 756px; 
+    background-color: #f7f7f1;
+}
+.left{
+    float:left;
+}
+.man{
+    height:60px;
+    text-align:center; 
+    padding-top:145px;
+}
+.hey{
+    display: inline-block;
+    font-size: 40pt;
+    margin-left: 10px;
+}
+.line{
+    display: inline-block;
+    vertical-align: 15px;
+}
+.dude{
+    margin-top:25px;
+    margin-left: 215px;
+    float:left;
+}
+.lorem{
+    font-size: 25px;
+    line-height: 1.5; 
+    float:left; 
+    margin-top:85px; 
+    margin-left: -85px
+}
+.clients{
+    height: 1100px; 
+    background-color: #f7f7f1;
+}
+.clients_txt_div{
+    display: flex; 
+    justify-content: center;
+    padding-top:150px; 
+    padding-bottom: 55px; 
+    margin: 0px;
+}
+.clients_txt{
+    font-size: 40pt;
+    margin:0px; 
+    text-align: center;
+}
+.microsoft{
+    margin-left:215px; 
+    align-self:baseline; 
+    flex-basis: 1%;
+}
+.apple{
+    margin-left:210px;
+    margin-top: 20px;
+}
+.behance{
+    margin-left: 30px; 
+    margin-top: 80px;
+}
+.google{
+    position: absolute;
+    left: 820px;
+    margin-top: 390px;
+}
+.evernote{
+    margin-left: 30px; 
+    margin-top: 90px;
+}
+.our_blogs{
+    height: 1580px;
+}
+.our_blogs_txt{
+    font-size: 40pt; 
+    text-align: center; 
+    padding-bottom: 100px; 
+    margin: 0px; 
+    margin-top: 150px;
+}
+.open_post{
+    border-bottom: 2px solid black;
+    margin-right: 300px;
+    margin-top: 175px;
+}
+.lorem2{
+    font-size:20px; 
+    margin: 0px;
+}
+.our_blogs_txt{
+    font-size: 30px; 
+    margin: 0px;
+    font-weight: bolder;
+}
+.notebook{
+    margin-left: 5%; 
+    display:flex;
+}
+.top{
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+}
+.february12{
+    font-size: 13px;
+    margin: 0px
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.shape{
+    margin-right: 130px;
+}
+.top2{
+flex-direction: column;
+align-self: flex-start;
+margin-left: 30px;
+}
+.feb10{
+    font-size: 13px;
+    margin: 0px;
+}
+.money_txt{
+    font-size: 30px; 
+    margin: 0px; 
+    font-weight: bolder;
+}
+.lorem3{
+    font-size:20px;
+    margin: 0px;
+}
+.open_post{
+    border-bottom: 2px solid black;
+    margin-right: 300px;
+    margin-top: 100px;
+}
+.check_button{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.line2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:-10px;
 }
